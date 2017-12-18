@@ -1,0 +1,36 @@
+{
+    "short_name": "K_Keringat",
+    "name": "Kejar Keringat",
+    "start_url": "/",
+
+    "theme_color": "#333",
+    "background_color": "#333",
+
+    "display": "fullscreen",
+    "orientation": "portrait",
+
+    "icons" : [
+        {
+            "src": "/assets/icon/icon-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon/icon-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon/icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icon/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+
+}
